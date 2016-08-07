@@ -1,7 +1,7 @@
 // This is a comment
 // test: comment
 // plus inert comment
-// branch bc
+// master with branch bb and bc
 
 package main
 
