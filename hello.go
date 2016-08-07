@@ -1,4 +1,6 @@
 // This is a comment
+// conflicting comment
+// plus inert comment
 
 package main
 
