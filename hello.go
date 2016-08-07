@@ -1,3 +1,4 @@
+// This is a comment
 
 package main
 
@@ -9,4 +10,5 @@ import (
 func main() {
       fmt.Printf( "hello, gopher dude!\n" )
       fmt.Printf( mystring.Reverse("hello, gopher dude!\n") )
+      fmt.Printf( "\n" )
 }
