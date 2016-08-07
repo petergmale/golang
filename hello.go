@@ -1,5 +1,6 @@
 // This is a comment
 // test: comment
+// plus inert comment
 
 package main
 
