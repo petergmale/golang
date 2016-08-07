@@ -1,4 +1,5 @@
 // This is a comment
+// test: comment
 
 package main
 
