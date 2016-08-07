@@ -1,5 +1,4 @@
 // This is a comment
-// Another comment
 
 package main
 
